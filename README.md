@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# RLC-Circuit-Analysis
+# Z-Transfom with Matlab
 Continuous and discrete analysis of an RLC circuit with Matlab.
 
 ## Contents
